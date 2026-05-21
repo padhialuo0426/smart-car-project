@@ -1,9 +1,11 @@
 [submodule "chassis-driver"]
-	path = chassis-driver
-	url = git@github.com:padhialuo0426/chassis-driver.git
+    path = chassis-driver
+    url = ../chassis-driver
+
 [submodule "encoder-motor-data"]
-	path = encoder-motor-data
-	url = git@github.com:padhialuo0426/encoder-motor-data.git
+    path = encoder-motor-data
+    url = ../encoder-motor-data
+
 [submodule "edge-ai-interface"]
-	path = edge-ai-interface
-	url = git@github.com:padhialuo0426/edge-ai-interface.git
+    path = edge-ai-interface
+    url = ../edge-ai-interface
